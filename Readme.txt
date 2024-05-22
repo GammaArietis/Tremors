@@ -1,5 +1,5 @@
 
-![Tremors](https://github.com/GammaArietis/Tremors/tremors.png)
+![Tremors](Tremors/tremors.png)
 
 
 
