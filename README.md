@@ -19,4 +19,4 @@ MATLAB runtime set the folder in which you start Tremors as the working folder, 
 In this case, the installation is less straightforward; please use the following link to properly install the App: https://it.mathworks.com/help/compiler/install-deployed-application.html
 
 --------------
-Please refer to the READM.pdf file for additional details. 
+# Please refer to the READM.PDF file for additional details. 
