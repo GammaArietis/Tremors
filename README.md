@@ -20,3 +20,8 @@ In this case, the installation is less straightforward; please use the following
 
 --------------
 # Please refer to the READM.PDF file for additional details. 
+
+--------------
+# Please cite https://doi.org/10.3390/geosciences14060149
+
+
